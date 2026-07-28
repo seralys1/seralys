@@ -34,8 +34,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Contatto",
+            "content": "<p><strong>Email di assistenza: </strong><a href=\"mailto:support@seralys.co\" title=\"mailto:support@seralys.co\">support@seralys.co</a></p><p><strong>Ore:</strong> Lun–Ven, 10:00–18:00</p>",
             "enable_follow_on_shop": true
           }
         }
