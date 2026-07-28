@@ -197,6 +197,46 @@
             "alignment": "center",
             "max_width": 500
           }
+        },
+        "collapsible_text_ETKJFW": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Come usare lo stick ?",
+            "content": "<p><strong>Deterge</strong> — Pulisci il viso e assicurati che la pelle sia asciutta prima dell'applicazione.</p><p><strong>Applica</strong> — Fai scorrere lo stick direttamente sulla zona da trattare (rughe, zone svuotate) con un leggero massaggio circolare.</p><p><strong>Lascia assorbire</strong> — Attendi qualche secondo che la texture balsamo si sciolga e penetri completamente.</p><p><strong>Ripeti mattina e sera</strong> — Usa costantemente 2 volte al giorno per risultati ottimali dopo 2-6 settimane.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_6cAczR": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Ingredienti",
+            "content": "<p><strong>Volu-Lift 5%: </strong>Un principio attivo d'eccellenza per un effetto volumizzante; ripristina il volume nelle aree svuotate e riempie visibilmente occhiaie e rughe, offrendo un immediato effetto rimpolpante.</p><p><strong>PDRN:</strong> Un principio attivo chiave della skincare coreana; potenzia la luminosità, la compattezza e la vitalità della pelle.<br/><br/><strong>Biocollagene:</strong> Ristruttura la superficie cutanea e restituisce densità ed elasticità alle zone soggette a rilassamento.<br/><br/><strong>Acido Ialuronico:</strong> Idrata intensamente e rimpolpa le rughe d'espressione dall'interno, garantendo un immediato effetto levigante.<br/><br/><strong>Peptidi</strong>: Aumentano la compattezza e l'elasticità, offrendo un visibile effetto lifting fin dalle prime applicazioni.<br/><br/><strong>NAD</strong>: Stimola l'energia cellulare della pelle e ne migliora la resilienza, per un incarnato più rivitalizzato.<br/><br/><strong>Retinolo:</strong> Attenua l'aspetto delle rughe d'espressione e dei segni del tempo esistenti, rendendo l'incarnato visibilmente più levigato.<br/><br/><strong>EGF:</strong> Rafforza la resilienza cutanea e contribuisce ad attenuare i segni dell'invecchiamento.<br/><br/><strong>Caffeina</strong>: Riduce i segni di stanchezza dello sguardo, attenuando borse e occhiaie.<br/><strong><br/>Vitamina E:</strong> Un antiossidante protettivo; nutre, lenisce e illumina l'incarnato.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_aLx7xV": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Conseigne e resi",
+            "content": "<p><strong>Spedizione gratuita:</strong> La spedizione standard è offerta su tutti gli ordini.</p><p><strong>Politica di reso</strong> a 30 giorni: La tua soddisfazione è la nostra priorità. Se per qualsiasi motivo non dovessi essere completamente soddisfatto del tuo acquisto, hai 30 giorni di tempo per restituire gli articoli e cambiarli con altri oppure richiedere un rimborso, senza complicazioni.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_EdQ6it": {
+          "type": "collapsible_text",
+          "settings": {
+            "icon": "none",
+            "icon_width": 20,
+            "title": "Garanzia di rimborso",
+            "content": "<p>Sappiamo che amerai i risultati del nostro Stick Rimpolpante, ma capiamo che tu voglia provarlo prima di esserne certa. Ecco perché offriamo un periodo di prova di 30 giorni. Se per qualsiasi motivo non sei completamente soddisfatta, ti basterà restituirlo per ricevere un rimborso completo senza domande scomode.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -205,7 +245,11 @@
         "buy-buttons",
         "liquid_gpjmjf",
         "image_UQqdxp",
-        "image_hdpVeY"
+        "image_hdpVeY",
+        "collapsible_text_ETKJFW",
+        "collapsible_text_6cAczR",
+        "collapsible_text_aLx7xV",
+        "collapsible_text_EdQ6it"
       ],
       "settings": {
         "full_width": false,
