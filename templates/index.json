@@ -395,7 +395,7 @@
         "item_dWU7gX"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "subheading": "",
         "title": "Domande frequenti",
         "content": "<p>Servizio clienti disponibile dal lunedì al venerdì: 9-18.Tempo medio di risposta: 24h</p>",
@@ -405,14 +405,14 @@
         "button_text": "Contattaci",
         "button_url": "shopify://pages/contact",
         "text_position": "start",
-        "background": "#ffffff",
+        "background": "#E7BEC1",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "",
+        "accordion_background": "#FFFFFF",
         "accordion_text_color": ""
       }
     }
