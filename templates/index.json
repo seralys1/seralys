@@ -318,14 +318,15 @@
         "image_AkEAVG": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_Jun_30_2026_12_54_10_PM_2.webp",
             "media_width": 50,
             "media_position": "end",
-            "text_position": "place-self-center text-center",
+            "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Non promettiamo risultati. Li dimostriamo",
+            "content": "<p>Studi clinici indipendenti, insieme a migliaia di clienti soddisfatti, confermano l'efficacia del nostro <strong>Stick rimpolpante</strong>.</p><p>Fin dalle prime applicazioni, la pelle appare <strong>più tonica, più liscia e più luminosa</strong>, con un <strong>riduzione visibile delle rughe sottili, delle macchie dell'età e delle occhiaie</strong>.</p><p><strong>Noterai la differenza fin dal primo utilizzo</strong>.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#000000",
