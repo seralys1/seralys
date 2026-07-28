@@ -51,6 +51,7 @@
         "1664424046b00c932c-0": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ELLE.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -63,6 +64,7 @@
         "1664424046b00c932c-1": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/GLAMOUR.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -75,6 +77,7 @@
         "1664424046b00c932c-2": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/MARIE.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -87,18 +90,7 @@
         "1664424046b00c932c-3": {
           "type": "item",
           "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
+            "image": "shopify://shop_images/VOGUE.webp",
             "stretch_image": true,
             "link_text": "",
             "link_url": "",
@@ -113,21 +105,20 @@
         "1664424046b00c932c-0",
         "1664424046b00c932c-1",
         "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
+        "1664424046b00c932c-3"
       ],
       "settings": {
         "full_width": false,
-        "block_size": "medium",
+        "block_size": "large",
         "subheading": "",
-        "title": "",
+        "title": "Come visto su",
         "content": "",
         "link_url": "",
         "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
+        "heading_color": "#E7BEC1",
         "heading_gradient": ""
       }
     },
