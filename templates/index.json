@@ -196,7 +196,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#FFA41C",
+            "atc_button_background": "#ffa41c",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -333,7 +333,7 @@
         "full_width": true,
         "content_width": "large",
         "text_position": "center",
-        "background": "#E7BEC1",
+        "background": "#e7bec1",
         "background_gradient": "",
         "text_color": ""
       }
@@ -355,11 +355,11 @@
             "content": "<p>Studi clinici indipendenti, insieme a migliaia di clienti soddisfatti, confermano l'efficacia del nostro <strong>Stick rimpolpante</strong>.</p><p>Fin dalle prime applicazioni, la pelle appare <strong>più tonica, più liscia e più luminosa</strong>, con un <strong>riduzione visibile delle rughe sottili, delle macchie dell'età e delle occhiaie</strong>.</p><p><strong>Noterai la differenza fin dal primo utilizzo</strong>.</p>",
             "link_text": "Voglio gli stessi risultati",
             "link_url": "#",
-            "background": "#FFFFFF",
+            "background": "#ffffff",
             "background_gradient": "",
             "text_color": "#000000",
             "text_gradient": "",
-            "button_background": "#E7BEC1",
+            "button_background": "#e7bec1",
             "button_text_color": ""
           }
         }
@@ -431,14 +431,14 @@
         "button_text": "Contattaci",
         "button_url": "shopify://pages/contact",
         "text_position": "start",
-        "background": "#E7BEC1",
+        "background": "#e7bec1",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
         "button_background": "",
         "button_text_color": "",
-        "accordion_background": "#FFFFFF",
+        "accordion_background": "#ffffff",
         "accordion_text_color": ""
       }
     },
@@ -532,7 +532,7 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": "",
-        "contact_background": "#E7BEC1",
+        "contact_background": "#e7bec1",
         "contact_text_color": "",
         "button_background": "",
         "button_text_color": ""
