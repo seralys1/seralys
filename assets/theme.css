@@ -10158,7 +10158,11 @@ padding-block-start: 0;
 }
 
 #shopify-section-template--21585648353434__rich_text_UHWLLG .section {
-  margin-block: 6px;
+  margin-block: 10px;
+}
+
+#shopify-section-template--21585648353434__rich_text_UHWLLG .section .rich-text__wrapper .prose *+:is(p,div,ul,ol) {
+margin-block-start: 0;
 }
 
 @media screen and (max-width: 767px) {
