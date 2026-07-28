@@ -384,16 +384,17 @@
             "icon": "none",
             "icon_width": 48,
             "title": "Marta, 44 anni",
-            "content": "<p><strong>Fumo da 18 anni. Le rughe intorno alla bocca sono quasi invisibili.</strong></p><p>Prima non avevano mai subito effetti. Né il retinolo, né le creme costose. Questo invece ha funzionato. Alla seconda settimana ho notato che si stavano attenuando. Dopo tre mesi, sono quasi sparite.<br/><strong>✓ Recensione verificata</strong><br/><br/></p>"
+            "content": "<p><strong>Fumo da 18 anni. Le rughe intorno alla bocca sono quasi invisibili.</strong></p><p>Prima non avevano mai subito effetti. Né il retinolo, né le creme costose. Questo invece ha funzionato. Alla seconda settimana ho notato che si stavano attenuando. Dopo tre mesi, sono quasi sparite.<br/><strong>✓ Recensione verificata</strong></p>"
           }
         },
         "item_H77AJN": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/6_aaf1ed74-c784-4208-9e63-7f03d660ea29_1.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading 2",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Laura, 29 anni",
+            "content": "<p><strong>Ho perso 16 chili. Avevo il viso scavato e cadente. Ora no.</strong></p><p>Tutto il mio volume è sparito con l'aumento di peso. L'ho recuperato. Ho impiegato 8 settimane, ma le mie guance sono tornate piene. La mia pelle non sembra più flaccida.</p><p><strong>✓ Recensione verificata</strong></p>"
           }
         }
       },
