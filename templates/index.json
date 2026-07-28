@@ -174,6 +174,81 @@
         "text_color": ""
       }
     },
+    "images_with_text_scrolling_czKACE": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_nUUetR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_3382693a-c4fe-4792-b6fa-d9cff75857ff_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Marta, 44 anni",
+            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Fumo da 18 anni. Le rughe intorno alla bocca sono quasi invisibili.</strong></p><p>Prima non avevano mai subito effetti. Né il retinolo, né le creme costose. Questo invece ha funzionato. Alla seconda settimana ho notato che si stavano attenuando. Dopo tre mesi, sono quasi sparite.<br/><strong>✓ Recensione verificata</strong></p>"
+          }
+        },
+        "item_H77AJN": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/2_52116225-13cf-4a9f-9b89-6b345f1ec36f_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Laura, 29 anni",
+            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Ho perso 16 chili. Avevo il viso scavato e cadente. Ora no.</strong></p><p>Tutto il mio volume è sparito con l'aumento di peso. L'ho recuperato. Ho impiegato 8 settimane, ma le mie guance sono tornate piene. La mia pelle non sembra più flaccida.</p><p><strong>✓ Recensione verificata</strong></p>"
+          }
+        },
+        "item_wDJXFy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/6_aaf1ed74-c784-4208-9e63-7f03d660ea29_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Carmen, 48 anni",
+            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Una ruga sul collo è comparsa da un giorno all'altro. Quasi è scomparsa del tutto.</strong></p><p>Dopo essermi passata tutto il giorno davanti agli schermi, il collo mostrava già chiari segni di invecchiamento. L'ho usato sul collo e sotto il mento. Dopo tre mesi, la ruga si è attenuata e la linea della mandibola è molto più definita.</p><p><strong>✓ Recensione verificata</strong></p>"
+          }
+        },
+        "item_UWP8Hd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/7_2bafebe3-7e1b-4cfc-82fd-2b6f2627c21b_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Lucía, 39 anni",
+            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Ho smesso di ritoccare le rughe d'espressione nelle foto.</strong></p><p>Erano così intense che ritoccavo ogni singola foto. Ho iniziato a usarlo mattina e sera. Al giorno 45 si erano attenuate così tanto che non ci pensavo più.</p><p><strong>✓ Recensione verificata</strong></p>"
+          }
+        },
+        "item_mbh6Wk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/3_391efa65-9cdd-4b54-b533-6276dd22f249_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Elisa, 35 anni",
+            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Evito di guardarmi allo specchio. Oggi mi piace ciò che vedo.</strong></p><p>Il mio viso appariva stanco e invecchiato. Occhi incavati, tratti emaciati, pelle spenta. Ho iniziato a usarlo su tutto il corpo. Trenta giorni dopo sembravo dieci anni più giovane.</p><p><strong>✓ Recensione verificata</strong></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nUUetR",
+        "item_H77AJN",
+        "item_wDJXFy",
+        "item_UWP8Hd",
+        "item_mbh6Wk"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "featured-product": {
       "type": "featured-product",
       "blocks": {
@@ -374,81 +449,6 @@
         "spacing": "small"
       }
     },
-    "images_with_text_scrolling_czKACE": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_nUUetR": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_3382693a-c4fe-4792-b6fa-d9cff75857ff_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Marta, 44 anni",
-            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Fumo da 18 anni. Le rughe intorno alla bocca sono quasi invisibili.</strong></p><p>Prima non avevano mai subito effetti. Né il retinolo, né le creme costose. Questo invece ha funzionato. Alla seconda settimana ho notato che si stavano attenuando. Dopo tre mesi, sono quasi sparite.<br/><strong>✓ Recensione verificata</strong></p>"
-          }
-        },
-        "item_H77AJN": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_52116225-13cf-4a9f-9b89-6b345f1ec36f_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Laura, 29 anni",
-            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Ho perso 16 chili. Avevo il viso scavato e cadente. Ora no.</strong></p><p>Tutto il mio volume è sparito con l'aumento di peso. L'ho recuperato. Ho impiegato 8 settimane, ma le mie guance sono tornate piene. La mia pelle non sembra più flaccida.</p><p><strong>✓ Recensione verificata</strong></p>"
-          }
-        },
-        "item_wDJXFy": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/6_aaf1ed74-c784-4208-9e63-7f03d660ea29_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Carmen, 48 anni",
-            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Una ruga sul collo è comparsa da un giorno all'altro. Quasi è scomparsa del tutto.</strong></p><p>Dopo essermi passata tutto il giorno davanti agli schermi, il collo mostrava già chiari segni di invecchiamento. L'ho usato sul collo e sotto il mento. Dopo tre mesi, la ruga si è attenuata e la linea della mandibola è molto più definita.</p><p><strong>✓ Recensione verificata</strong></p>"
-          }
-        },
-        "item_UWP8Hd": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/7_2bafebe3-7e1b-4cfc-82fd-2b6f2627c21b_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Lucía, 39 anni",
-            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Ho smesso di ritoccare le rughe d'espressione nelle foto.</strong></p><p>Erano così intense che ritoccavo ogni singola foto. Ho iniziato a usarlo mattina e sera. Al giorno 45 si erano attenuate così tanto che non ci pensavo più.</p><p><strong>✓ Recensione verificata</strong></p>"
-          }
-        },
-        "item_mbh6Wk": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_391efa65-9cdd-4b54-b533-6276dd22f249_1.webp",
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Elisa, 35 anni",
-            "content": "<p>⭐⭐⭐⭐⭐</p><p><strong>Evito di guardarmi allo specchio. Oggi mi piace ciò che vedo.</strong></p><p>Il mio viso appariva stanco e invecchiato. Occhi incavati, tratti emaciati, pelle spenta. Ho iniziato a usarlo su tutto il corpo. Trenta giorni dopo sembravo dieci anni più giovane.</p><p><strong>✓ Recensione verificata</strong></p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_nUUetR",
-        "item_H77AJN",
-        "item_wDJXFy",
-        "item_UWP8Hd",
-        "item_mbh6Wk"
-      ],
-      "name": "Images and text scrolling",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -619,10 +619,10 @@
     "image-link-blocks",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
+    "images_with_text_scrolling_czKACE",
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
-    "images_with_text_scrolling_czKACE",
     "faq",
     "text_with_icons_fhJnDJ",
     "contact_dhDGL3"
