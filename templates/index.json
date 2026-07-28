@@ -374,6 +374,47 @@
         "spacing": "small"
       }
     },
+    "images_with_text_scrolling_czKACE": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_nUUetR": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/5_3382693a-c4fe-4792-b6fa-d9cff75857ff_1.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Marta, 44 anni",
+            "content": "<p><strong>Fumo da 18 anni. Le rughe intorno alla bocca sono quasi invisibili.</strong></p><p>Prima non avevano mai subito effetti. Né il retinolo, né le creme costose. Questo invece ha funzionato. Alla seconda settimana ho notato che si stavano attenuando. Dopo tre mesi, sono quasi sparite.<br/><strong>✓ Recensione verificata</strong><br/><br/></p>"
+          }
+        },
+        "item_H77AJN": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading 2",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_nUUetR",
+        "item_H77AJN"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": true,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -547,6 +588,7 @@
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
+    "images_with_text_scrolling_czKACE",
     "faq",
     "text_with_icons_fhJnDJ",
     "contact_dhDGL3"
