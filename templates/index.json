@@ -348,112 +348,56 @@
         "spacing": "small"
       }
     },
-    "testimonials_fRMUTr": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_VQJrnb": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_8UA9nw": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_Fd4xxA": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        },
-        "testimonial_QHYXtU": {
-          "type": "testimonial",
-          "settings": {
-            "round_avatar": true,
-            "show_rating": true,
-            "rating": 4,
-            "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_VQJrnb",
-        "testimonial_8UA9nw",
-        "testimonial_Fd4xxA",
-        "testimonial_QHYXtU"
-      ],
-      "name": "Testimonials",
-      "settings": {
-        "full_width": true,
-        "stack_testimonials": true,
-        "subheading": "",
-        "title": "Testimonials",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "testimonial_card_background": "",
-        "testimonial_card_text_color": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "In quanto tempo si vedono i risultati?",
+            "content": "<p>L'effetto rimpolpante è visibile fin dalla prima applicazione sulla zona trattata. Per le piccole rughe e le zone svuotate, la maggior parte delle clienti nota un'evoluzione tra la 2ª e la 6ª settimana di uso costante, mattina e sera. I risultati variano da persona a persona.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "È adatto alle pelli sensibili?",
+            "content": "<p>Sì. La formula è senza profumo, senza allergeni aggiunti e testata sotto controllo dermatologico, anche su pelli sensibili. Come per ogni nuovo prodotto, consigliamo un test all'incavo del gomito prima della prima applicazione.</p>"
           }
         },
         "166442457738b23caf-2": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "È adatto alle pelli sensibili?",
+            "content": "<p>Certo. La texture balsamo si scioglie e si assorbe lasciando un finish morbido: applica lo stick prima del trucco, aspetta qualche secondo e poi procedi come al solito.</p>"
+          }
+        },
+        "item_AkYmtm": {
+          "type": "item",
+          "settings": {
+            "title": "Quanti stick servono per un ciclo completo?",
+            "content": "<p>Uno stick copre circa 4 settimane su una o due zone. Per trattare viso e collo senza interruzioni, la maggior parte delle clienti sceglie il formato da 2 o 3 stick e anche più miglior prezzo a stick, con spedizione gratuita inclusa.</p>"
+          }
+        },
+        "item_dWU7gX": {
+          "type": "item",
+          "settings": {
+            "title": "Quali sono i tempi di spedizione?",
+            "content": "<p>Spedizione standard in 5-8 giorni lavorativi. Ricevi una mail di tracciamento alla partenza dell'ordine.</p>"
           }
         }
       },
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_AkYmtm",
+        "item_dWU7gX"
       ],
       "settings": {
         "full_width": false,
         "subheading": "",
-        "title": "FAQ",
+        "title": "Domande frequenti",
         "content": "<p>Use this text to share information about your product or shipping policies.</p>",
         "team_avatar_width": 160,
         "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
@@ -480,7 +424,6 @@
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
-    "testimonials_fRMUTr",
     "faq"
   ]
 }
