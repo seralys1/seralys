@@ -6693,6 +6693,11 @@ product-rerender {
   transition: opacity .2s ease-in-out;
 }
 
+.image-link-blocks__item img {
+height: 60px;
+object-fit: fill;
+}
+
 .image-link-blocks__item .icon-circle-button-right-clipped {
   opacity: 0;
   transition: opacity .2s ease-in-out;
