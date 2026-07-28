@@ -490,6 +490,27 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "contact_dhDGL3": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Hai una domanda?",
+        "content": "<p>Scrivici: rispondiamo entro 24 ore, dal lunedì al venerdì.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "#E7BEC1",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -500,6 +521,7 @@
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
     "faq",
-    "text_with_icons_fhJnDJ"
+    "text_with_icons_fhJnDJ",
+    "contact_dhDGL3"
   ]
 }
