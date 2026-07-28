@@ -582,7 +582,7 @@
       "name": "Press",
       "settings": {
         "full_width": true,
-        "content_size": "medium",
+        "content_size": "small",
         "background": "",
         "background_gradient": "",
         "text_color": "",
