@@ -6680,7 +6680,7 @@ product-rerender {
 
 .image-link-blocks {
   grid: var(--image-link-blocks-grid);
-  gap: var(--spacing-2);
+  gap: 1.5rem;
   align-items: center;
   display: grid;
 }
