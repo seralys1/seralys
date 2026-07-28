@@ -181,13 +181,31 @@
           "settings": {
             "liquid": "<style>\n  .viewing-product {\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    gap: 10px;\n    font-size: 16px;\n    font-weight: 500;\n    color: #222;\nmargin: 15px 0;\n}\n\n.blink-dot {\n    width: 10px;\n    height: 10px;\n    background: #22c55e;\n    border-radius: 50%;\n    animation: blink 1s infinite;\n    flex-shrink: 0;\n}\n\n@keyframes blink {\n    0%, 100% {\n        opacity: 1;\n        transform: scale(1);\n    }\n    50% {\n        opacity: .3;\n        transform: scale(.8);\n    }\n}\n</style>\n\n<div class=\"viewing-product\">\n    <span class=\"blink-dot\"></span>\n    <span id=\"viewerCount\"></span> persone lo stanno guardando\n</div>\n\n<script>\nconst viewer = document.getElementById(\"viewerCount\");\n\n// Har visitor ko random starting value (70 - 110)\nlet currentViewers = Math.floor(Math.random() * 41) + 70;\n\nconst maxViewers = 180;\n\nviewer.textContent = currentViewers;\n\nfunction updateViewers() {\n\n    // +1 to +5\n    currentViewers += Math.floor(Math.random() * 5) + 1;\n\n    // Max cross ho to 165-175 se dobara start\n    if (currentViewers > maxViewers) {\n        currentViewers = Math.floor(Math.random() * 11) + 165;\n    }\n\n    viewer.textContent = currentViewers;\n}\n\n// Har 10 second baad update\nsetInterval(updateViewers, 10000);\n</script>"
           }
+        },
+        "image_UQqdxp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/TRUST_1.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
+        "image_hdpVeY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/expedition.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
         "description",
         "liquid_Gqf8mE",
         "buy-buttons",
-        "liquid_gpjmjf"
+        "liquid_gpjmjf",
+        "image_UQqdxp",
+        "image_hdpVeY"
       ],
       "settings": {
         "full_width": false,
