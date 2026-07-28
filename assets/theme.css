@@ -10139,6 +10139,10 @@ display: none;
   display: block;
 }
 
+#shopify-section-template--21585648353434__media_with_text_CQTXHP .media-with-text__content {
+  padding: 0;
+}
+
 @media screen and (max-width: 767px) {
   #shopify-section-template--21585648353434__rich_text_CBPhjR {
 display: block;
