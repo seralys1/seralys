@@ -10121,3 +10121,7 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   display: -webkit-box;
   overflow: hidden;
 }
+
+#shopify-section-template--21585648353434__rich_text_39nz9T .prose img {
+  margin-block: 1rem;
+}
