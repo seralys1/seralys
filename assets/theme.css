@@ -10131,7 +10131,9 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   padding-block-end: 20px;
 }
 
-#shopify-section-template--21585648353434__images_with_text_scrolling_czKACE .section, #shopify-section-template--21585648353434__rich_text_CBPhjR .section {
+#shopify-section-template--21585648353434__images_with_text_scrolling_czKACE .section,
+#shopify-section-template--21585648353434__rich_text_CBPhjR .section,
+#shopify-section-template--21585648353434__press_QtYbwK .section {
   padding-block-start: 0;
   padding-block-end: 10px;
 }
