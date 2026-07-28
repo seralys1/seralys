@@ -501,6 +501,58 @@
         "spacing": "small"
       }
     },
+    "press_QtYbwK": {
+      "type": "press",
+      "blocks": {
+        "quote_bi648D": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": true,
+            "rating": 5
+          }
+        },
+        "quote_gfiUB4": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        },
+        "quote_ELARKm": {
+          "type": "quote",
+          "settings": {
+            "logo_width": 100,
+            "author": "",
+            "content": "Write some content about what they says about your store.",
+            "show_rating": true,
+            "rating": 4
+          }
+        }
+      },
+      "block_order": [
+        "quote_bi648D",
+        "quote_gfiUB4",
+        "quote_ELARKm"
+      ],
+      "name": "Press",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -677,6 +729,7 @@
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
+    "press_QtYbwK",
     "faq",
     "text_with_icons_fhJnDJ",
     "contact_dhDGL3"
