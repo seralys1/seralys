@@ -10139,7 +10139,7 @@ display: none;
   display: block;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (max-width: 767px) {
   #shopify-section-template--21585648353434__rich_text_CBPhjR {
 display: block;
 }
