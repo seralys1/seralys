@@ -269,6 +269,49 @@
         "input_text_color": ""
       }
     },
+    "rich_text_39nz9T": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_dKgbKg": {
+          "type": "subheading",
+          "settings": {
+            "text": "Tutto ciò di cui la tua pelle ha bisogno"
+          }
+        },
+        "heading_mBd7Yr": {
+          "type": "heading",
+          "settings": {
+            "text": "Tutto ciò di cui la tua pelle ha bisogno",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_4jdpWY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/boxes.webp",
+            "width_mode": "full_width",
+            "max_width": 600,
+            "mobile_max_width": 400
+          }
+        }
+      },
+      "block_order": [
+        "subheading_dKgbKg",
+        "heading_mBd7Yr",
+        "image_4jdpWY"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "#E7BEC1",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -327,6 +370,7 @@
     "image-link-blocks",
     "rich_text_WfLjJM",
     "featured-product",
+    "rich_text_39nz9T",
     "faq"
   ]
 }
