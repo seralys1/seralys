@@ -20,10 +20,18 @@
             "text": "Announce something here",
             "url": ""
           }
+        },
+        "message_FtYLhh": {
+          "type": "message",
+          "settings": {
+            "text": "Announce something here",
+            "url": ""
+          }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_FtYLhh"
       ],
       "settings": {
         "enable_sticky": false,
@@ -32,7 +40,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#E7BEC1",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -42,7 +50,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "{{shop.brand.logo}}",
+        "logo": "shopify://shop_images/Seralys-Logo.webp",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
