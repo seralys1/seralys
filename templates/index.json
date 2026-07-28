@@ -515,31 +515,69 @@
             "rating": 5
           }
         },
-        "quote_gfiUB4": {
+        "quote_bA9wTV": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": false,
+            "rating": 5
           }
         },
-        "quote_ELARKm": {
+        "quote_84xJEp": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
-            "show_rating": true,
-            "rating": 4
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_PECT4w": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
+            "logo_width": 100,
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_VKAdEW": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
+            "logo_width": 100,
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": false,
+            "rating": 5
+          }
+        },
+        "quote_N3LkHJ": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
+            "logo_width": 100,
+            "author": "– Manuela T.",
+            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
+            "show_rating": false,
+            "rating": 5
           }
         }
       },
       "block_order": [
         "quote_bi648D",
-        "quote_gfiUB4",
-        "quote_ELARKm"
+        "quote_bA9wTV",
+        "quote_84xJEp",
+        "quote_PECT4w",
+        "quote_VKAdEW",
+        "quote_N3LkHJ"
       ],
       "name": "Press",
       "settings": {
