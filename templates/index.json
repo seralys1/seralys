@@ -501,6 +501,49 @@
         "spacing": "small"
       }
     },
+    "rich_text_UHWLLG": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YNWgtf": {
+          "type": "heading",
+          "settings": {
+            "text": "Eccellente",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "image_reaWdx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
+            "width_mode": "custom",
+            "max_width": 100,
+            "mobile_max_width": 100
+          }
+        },
+        "richtext_PqRVqT": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>4.5/5 — oltre 2.430 clienti</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YNWgtf",
+        "image_reaWdx",
+        "richtext_PqRVqT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press_QtYbwK": {
       "type": "press",
       "blocks": {
@@ -768,6 +811,7 @@
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
+    "rich_text_UHWLLG",
     "press_QtYbwK",
     "faq",
     "text_with_icons_fhJnDJ",
