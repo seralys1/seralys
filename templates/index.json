@@ -289,6 +289,7 @@
         },
         "image_4jdpWY": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/boxes.webp",
             "width_mode": "full_width",
@@ -346,6 +347,78 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "small"
+      }
+    },
+    "testimonials_fRMUTr": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_VQJrnb": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "John S.",
+            "title": "Testimonial 1",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_8UA9nw": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 5,
+            "author": "Mary U.",
+            "title": "Testimonial 2",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_Fd4xxA": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        },
+        "testimonial_QHYXtU": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Joshua A.",
+            "title": "Testimonial 3",
+            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_VQJrnb",
+        "testimonial_8UA9nw",
+        "testimonial_Fd4xxA",
+        "testimonial_QHYXtU"
+      ],
+      "name": "Testimonials",
+      "settings": {
+        "full_width": true,
+        "stack_testimonials": true,
+        "subheading": "",
+        "title": "Testimonials",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "testimonial_card_background": "",
+        "testimonial_card_text_color": ""
       }
     },
     "faq": {
@@ -408,6 +481,7 @@
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
+    "testimonials_fRMUTr",
     "faq"
   ]
 }
