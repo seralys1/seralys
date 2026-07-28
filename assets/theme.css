@@ -10157,4 +10157,11 @@ display: block;
 #shopify-section-template--21585648353434__images_with_text_scrolling_czKACE {
   display: block;
 }
+#shopify-section-template--21585648353434__images_with_text_scrolling_czKACE .images-scrolling__counter {
+  display: none;
+}
+#shopify-section-template--21585648353434__images_with_text_scrolling_czKACE .images-scrolling__content .prose > .h1 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
 }
