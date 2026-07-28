@@ -108,7 +108,7 @@
         "1664424046b00c932c-3"
       ],
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "block_size": "medium",
         "subheading": "",
         "title": "Come visto su",
@@ -137,6 +137,32 @@
       },
       "block_order": [
         "image_XUrnXe"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_CBPhjR": {
+      "type": "rich-text",
+      "blocks": {
+        "image_yE3QBN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/afterbefore.webp",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "image_yE3QBN"
       ],
       "name": "Rich text",
       "settings": {
@@ -517,6 +543,7 @@
     "media_with_text_xexBGb",
     "image-link-blocks",
     "rich_text_WfLjJM",
+    "rich_text_CBPhjR",
     "featured-product",
     "rich_text_39nz9T",
     "media_with_text_CQTXHP",
