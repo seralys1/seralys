@@ -10134,3 +10134,16 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
 #shopify-section-template--21585648353434__rich_text_CBPhjR {
 display: none;
 }
+
+#shopify-section-template--21585648353434__rich_text_WfLjJM {
+  display: block;
+}
+
+@media screen and (min-width: 700px) {
+  #shopify-section-template--21585648353434__rich_text_CBPhjR {
+display: block;
+}
+#shopify-section-template--21585648353434__rich_text_WfLjJM {
+  display: none;
+}
+}
