@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#E7BEC1",
+        "background": "#e7bec1",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -56,8 +56,8 @@
     "header": {
       "type": "header",
       "settings": {
-        "enable_sticky": false,
-        "hide_on_scroll": true,
+        "enable_sticky": true,
+        "hide_on_scroll": false,
         "logo": "shopify://shop_images/Seralys-Logo.webp",
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
