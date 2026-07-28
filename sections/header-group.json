@@ -17,21 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "OFFERTA ESTIVA -50%",
             "url": ""
           }
         },
         "message_FtYLhh": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "1 STICK + 1 IN OMMAGIO",
+            "url": ""
+          }
+        },
+        "message_EE4CrY": {
+          "type": "message",
+          "settings": {
+            "text": "SPEDIZIONE GRATUITA",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_FtYLhh"
+        "message_FtYLhh",
+        "message_EE4CrY"
       ],
       "settings": {
         "enable_sticky": false,
