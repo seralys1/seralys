@@ -108,7 +108,7 @@
         "1664424046b00c932c-3"
       ],
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "block_size": "medium",
         "subheading": "",
         "title": "Come visto su",
