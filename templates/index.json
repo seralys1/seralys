@@ -52,7 +52,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/ELLE.webp",
-            "stretch_image": false,
+            "stretch_image": true,
             "link_text": "",
             "link_url": "",
             "background": "",
@@ -65,7 +65,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/GLAMOUR.webp",
-            "stretch_image": false,
+            "stretch_image": true,
             "link_text": "",
             "link_url": "",
             "background": "",
@@ -78,7 +78,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/MARIE.webp",
-            "stretch_image": false,
+            "stretch_image": true,
             "link_text": "",
             "link_url": "",
             "background": "",
@@ -91,7 +91,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/VOGUE.webp",
-            "stretch_image": false,
+            "stretch_image": true,
             "link_text": "",
             "link_url": "",
             "background": "",
