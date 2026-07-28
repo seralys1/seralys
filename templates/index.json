@@ -507,10 +507,11 @@
         "quote_bi648D": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
             "logo_width": 100,
             "author": "– Manuela T.",
             "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
-            "show_rating": true,
+            "show_rating": false,
             "rating": 5
           }
         },
