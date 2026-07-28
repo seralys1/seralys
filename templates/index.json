@@ -148,32 +148,6 @@
         "text_color": ""
       }
     },
-    "rich_text_7QQFkR": {
-      "type": "rich-text",
-      "blocks": {
-        "image_8HM7Bt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/review_section.webp",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "image_8HM7Bt"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": false,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "rich_text_CBPhjR": {
       "type": "rich-text",
       "blocks": {
@@ -189,6 +163,32 @@
       },
       "block_order": [
         "image_yE3QBN"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": false,
+        "content_width": "large",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_7QQFkR": {
+      "type": "rich-text",
+      "blocks": {
+        "image_8HM7Bt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/review_section.webp",
+            "width_mode": "full_width",
+            "max_width": 1000,
+            "mobile_max_width": 600
+          }
+        }
+      },
+      "block_order": [
+        "image_8HM7Bt"
       ],
       "name": "Rich text",
       "settings": {
@@ -644,8 +644,8 @@
     "media_with_text_xexBGb",
     "image-link-blocks",
     "rich_text_WfLjJM",
-    "rich_text_7QQFkR",
     "rich_text_CBPhjR",
+    "rich_text_7QQFkR",
     "images_with_text_scrolling_czKACE",
     "featured-product",
     "rich_text_39nz9T",
