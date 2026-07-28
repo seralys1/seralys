@@ -6683,6 +6683,7 @@ product-rerender {
   gap: 1.5rem;
   align-items: center;
   display: grid;
+  justify-content: space-between;
 }
 
 .image-link-blocks__item .content-over-media .circle-chevron {
