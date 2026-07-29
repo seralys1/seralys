@@ -9,6 +9,42 @@
  */
 {
   "sections": {
+    "media_with_text_xexBGb": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_6iYDCA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
+            "media_width": 50,
+            "media_position": "end",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recenzje",
+            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamente dove serve.",
+            "content": "",
+            "link_text": "",
+            "link_url": "",
+            "background": "#e7bec1",
+            "background_gradient": "",
+            "text_color": "#ffffff",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_6iYDCA"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "slideshow_yjEX9F": {
       "type": "slideshow",
       "blocks": {
@@ -95,42 +131,6 @@
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "media_with_text_xexBGb": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_6iYDCA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "icon_width": 48,
-            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recenzje",
-            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamente dove serve.",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#e7bec1",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_6iYDCA"
-      ],
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "none"
       }
     },
     "rich_text_WfLjJM": {
@@ -780,10 +780,10 @@
     }
   },
   "order": [
+    "media_with_text_xexBGb",
     "slideshow_yjEX9F",
     "image_with_text_overlay_hGFdMK",
     "image_with_text_overlay_gdWzUr",
-    "media_with_text_xexBGb",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
     "rich_text_HCB9bn",
