@@ -287,12 +287,12 @@
     "featured-product": {
       "type": "featured-product",
       "blocks": {
-        "description": {
-          "type": "description",
+        "image_iGmXUL": {
+          "type": "image",
           "settings": {
-            "icon": "none",
-            "icon_width": 20,
-            "collapse_content": false
+            "image": "shopify://shop_images/expedition.webp",
+            "alignment": "center",
+            "max_width": 500
           }
         },
         "liquid_Gqf8mE": {
@@ -390,7 +390,7 @@
         }
       },
       "block_order": [
-        "description",
+        "image_iGmXUL",
         "liquid_Gqf8mE",
         "image_V4q3H4",
         "rapi_bundle_rapi_bundle_RMzFht",
