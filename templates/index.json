@@ -290,7 +290,7 @@
         "image_iGmXUL": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/expedition.webp",
+            "image": "shopify://shop_images/prod.ser.webp",
             "alignment": "center",
             "max_width": 500
           }
