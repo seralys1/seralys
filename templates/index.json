@@ -52,6 +52,34 @@
         "background_gradient": ""
       }
     },
+    "image_with_text_overlay_hGFdMK": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_6LggMR": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_6LggMR"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_TRUST_3.png",
+        "mobile_image": "shopify://shop_images/Copie_de_TRUST_3.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "media_with_text_xexBGb": {
       "type": "media-with-text",
       "blocks": {
@@ -86,83 +114,6 @@
         "full_width": false,
         "alternate_media_position": false,
         "spacing": "none"
-      }
-    },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/ELLE.webp",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/GLAMOUR.webp",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/MARIE.webp",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/VOGUE.webp",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3"
-      ],
-      "settings": {
-        "full_width": false,
-        "block_size": "medium",
-        "subheading": "",
-        "title": "Come visto su",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "#e7bec1",
-        "heading_gradient": ""
       }
     },
     "rich_text_WfLjJM": {
@@ -845,8 +796,8 @@
   },
   "order": [
     "slideshow_yjEX9F",
+    "image_with_text_overlay_hGFdMK",
     "media_with_text_xexBGb",
-    "image-link-blocks",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
     "rich_text_HCB9bn",
