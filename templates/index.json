@@ -39,6 +39,7 @@
       "block_order": [
         "image_6iYDCA"
       ],
+      "disabled": true,
       "name": "Media with text",
       "settings": {
         "full_width": false,
@@ -86,6 +87,49 @@
         "autoplay": false,
         "cycle_speed": 6,
         "background": "#ffffff",
+        "background_gradient": ""
+      }
+    },
+    "slideshow_Jh4nEQ": {
+      "type": "slideshow",
+      "blocks": {
+        "image_XJerKL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/4_85_2.430_recensioni.png",
+            "mobile_image": "shopify://shop_images/4_85_2.430_recensioni.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_XJerKL"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
         "background_gradient": ""
       }
     },
@@ -776,6 +820,7 @@
   "order": [
     "media_with_text_xexBGb",
     "slideshow_yjEX9F",
+    "slideshow_Jh4nEQ",
     "image_with_text_overlay_hGFdMK",
     "image_with_text_overlay_gdWzUr",
     "rich_text_WfLjJM",
