@@ -9,87 +9,6 @@
  */
 {
   "sections": {
-    "media_with_text_xexBGb": {
-      "type": "media-with-text",
-      "blocks": {
-        "image_6iYDCA": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
-            "media_width": 50,
-            "media_position": "end",
-            "text_position": "place-self-center-start text-start",
-            "icon": "none",
-            "custom_icon": "shopify://shop_images/4_85_2.430_recensioni.png",
-            "icon_width": 48,
-            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recensioni",
-            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamente dove serve.",
-            "content": "",
-            "link_text": "",
-            "link_url": "",
-            "background": "#e7bec1",
-            "background_gradient": "",
-            "text_color": "#ffffff",
-            "text_gradient": "",
-            "button_background": "",
-            "button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_6iYDCA"
-      ],
-      "disabled": true,
-      "name": "Media with text",
-      "settings": {
-        "full_width": false,
-        "alternate_media_position": false,
-        "spacing": "none"
-      }
-    },
-    "slideshow_yjEX9F": {
-      "type": "slideshow",
-      "blocks": {
-        "image_j44B3i": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
-            "mobile_image": "shopify://shop_images/4_85_2.430_recensioni_4.webp",
-            "content_max_width": 900,
-            "mobile_text_position": "place-self-end-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "",
-            "title": "",
-            "heading_tag": "h6",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0,
-            "background": "",
-            "background_gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_j44B3i"
-      ],
-      "name": "Slideshow",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "show_initial_transition": false,
-        "image_size": "auto",
-        "controls_type": "none",
-        "transition_type": "fade_with_text",
-        "autoplay": false,
-        "cycle_speed": 6,
-        "background": "#ffffff",
-        "background_gradient": ""
-      }
-    },
     "slideshow_Jh4nEQ": {
       "type": "slideshow",
       "blocks": {
@@ -154,23 +73,6 @@
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_TRUST_16.png",
         "mobile_image": "shopify://shop_images/Copie_de_TRUST_17.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_gdWzUr": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/afterbefore.webp",
-        "mobile_image": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_15_32_PM.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -818,11 +720,8 @@
     }
   },
   "order": [
-    "media_with_text_xexBGb",
-    "slideshow_yjEX9F",
     "slideshow_Jh4nEQ",
     "image_with_text_overlay_hGFdMK",
-    "image_with_text_overlay_gdWzUr",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
     "rich_text_HCB9bn",
