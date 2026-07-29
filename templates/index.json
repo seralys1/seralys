@@ -135,20 +135,6 @@
     },
     "rich_text_WfLjJM": {
       "type": "rich-text",
-      "blocks": {
-        "image_XUrnXe": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2026-07-28_125441.webp",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "image_XUrnXe"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": false,
