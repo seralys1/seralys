@@ -428,47 +428,20 @@
         "input_text_color": ""
       }
     },
-    "rich_text_39nz9T": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_dKgbKg": {
-          "type": "subheading",
-          "settings": {
-            "text": "Tutto ciò di cui la tua pelle ha bisogno"
-          }
-        },
-        "heading_mBd7Yr": {
-          "type": "heading",
-          "settings": {
-            "text": "Tutto ciò di cui la tua pelle ha bisogno",
-            "heading_tag": "h2",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "image_4jdpWY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/boxes.webp",
-            "width_mode": "custom",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "subheading_dKgbKg",
-        "heading_mBd7Yr",
-        "image_4jdpWY"
-      ],
-      "name": "Rich text",
+    "image_with_text_overlay_yx7YqQ": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
       "settings": {
         "full_width": true,
-        "content_width": "large",
-        "text_position": "center",
-        "background": "#e7bec1",
-        "background_gradient": "",
-        "text_color": ""
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Copie_de_TRUST_18.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "media_with_text_CQTXHP": {
@@ -851,7 +824,7 @@
     "rich_text_7QQFkR",
     "images_with_text_scrolling_czKACE",
     "featured-product",
-    "rich_text_39nz9T",
+    "image_with_text_overlay_yx7YqQ",
     "media_with_text_CQTXHP",
     "image_with_text_overlay_XGjciV",
     "rich_text_UHWLLG",
