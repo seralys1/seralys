@@ -9,6 +9,69 @@
  */
 {
   "sections": {
+    "slideshow_yjEX9F": {
+      "type": "slideshow",
+      "blocks": {
+        "image_j44B3i": {
+          "type": "image",
+          "settings": {
+            "mobile_image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        },
+        "image_4CcV48": {
+          "type": "image",
+          "settings": {
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_j44B3i",
+        "image_4CcV48"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#F2F2F2",
+        "background_gradient": ""
+      }
+    },
     "media_with_text_xexBGb": {
       "type": "media-with-text",
       "blocks": {
@@ -801,6 +864,7 @@
     }
   },
   "order": [
+    "slideshow_yjEX9F",
     "media_with_text_xexBGb",
     "image-link-blocks",
     "rich_text_WfLjJM",
