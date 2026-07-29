@@ -15,60 +15,40 @@
         "image_j44B3i": {
           "type": "image",
           "settings": {
-            "mobile_image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
+            "image": "shopify://shop_images/ChatGPTImageJun29_2026_12_38_56PM_02ffef5d-c22e-48ed-be50-dda32ff80151_1.webp",
+            "mobile_image": "shopify://shop_images/ChatGPT_Image_Jun_30_2026_10_51_43_AM_1.webp",
+            "content_max_width": 900,
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 1",
-            "heading_tag": "h0",
+            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recenzje",
+            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamentedove serve.",
+            "heading_tag": "h6",
             "button_text": "",
             "button_link": "",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
-            "background": "",
-            "background_gradient": ""
-          }
-        },
-        "image_4CcV48": {
-          "type": "image",
-          "settings": {
-            "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide 2",
-            "heading_tag": "h0",
-            "button_text": "",
-            "button_link": "",
-            "text_color": "#ffffff",
-            "button_background": "#ffffff",
-            "button_text_color": "#000000",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 0,
             "background": "",
             "background_gradient": ""
           }
         }
       },
       "block_order": [
-        "image_j44B3i",
-        "image_4CcV48"
+        "image_j44B3i"
       ],
       "name": "Slideshow",
       "settings": {
-        "full_width": true,
-        "allow_transparent_header": true,
+        "full_width": false,
+        "allow_transparent_header": false,
         "show_initial_transition": false,
         "image_size": "auto",
-        "controls_type": "dots",
+        "controls_type": "none",
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#F2F2F2",
+        "background": "#FFFFFF",
         "background_gradient": ""
       }
     },
