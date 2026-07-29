@@ -21,7 +21,7 @@
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
-            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recenzje",
+            "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recensioni",
             "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamente dove serve.",
             "content": "",
             "link_text": "",
@@ -164,7 +164,7 @@
           "type": "heading",
           "settings": {
             "text": "Li usano ogni giorno",
-            "heading_tag": "h2",
+            "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
           }
