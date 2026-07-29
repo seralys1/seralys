@@ -480,40 +480,6 @@
         "spacing": "small"
       }
     },
-    "image_with_text_overlay_XGjciV": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_qpBMBG": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
-        "richtext_F4cCmH": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_qpBMBG",
-        "richtext_F4cCmH"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "fill",
-        "image": "shopify://shop_images/boxes.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "rich_text_UHWLLG": {
       "type": "rich-text",
       "blocks": {
@@ -555,97 +521,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press_QtYbwK": {
-      "type": "press",
-      "blocks": {
-        "quote_bi648D": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Manuela T.",
-            "content": "Pratico e mirato Quello che cercavo: colpisco esattamente la ruga senza spalmare prodotto ovunque. La texture si scioglie e non appiccica. Dieci secondi e ho finito.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_bA9wTV": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Federica G.",
-            "content": "Il trucco non si infila più nelle pieghe Lo passo la mattina prima del fondotinta. Risultato: il make-up resta liscio e non si deposita più nelle piccole rughe. Per me è diventato un passaggio fisso.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_84xJEp": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Rosanna L.",
-            "content": "Non ci credevo, alla mia età A 63 anni ero scettica. L'ho usato con costanza sul contorno occhi e sul solco del sorriso: la pelle sembra più piena e luminosa. Felicissima dell'acquisto.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_PECT4w": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Silvia B.",
-            "content": "Ottimo prodotto, spedizione un po' lenta Il prodotto mi piace molto, lo sguardo sembra più riposato. Tolgo una stella solo perché la consegna ha richiesto qualche giorno in più del previsto. Per il resto consigliato.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_VKAdEW": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Patrizia V.",
-            "content": "Le righe sopra il labbro Erano la mia ossessione. Dopo un mese e mezzo di uso quotidiano si notano molto meno. Anche mio marito se n'è accorto senza che dicessi niente.",
-            "show_rating": false,
-            "rating": 5
-          }
-        },
-        "quote_N3LkHJ": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_18_56_PM.webp",
-            "logo_width": 100,
-            "author": "– Elena C.",
-            "content": "\"Hai dormito di più?\" Me l'ha chiesto una collega. No, semplicemente lo sguardo sembra meno stanco. Lo tengo nella borsa e lo uso anche durante la giornata.",
-            "show_rating": false,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_bi648D",
-        "quote_bA9wTV",
-        "quote_84xJEp",
-        "quote_PECT4w",
-        "quote_VKAdEW",
-        "quote_N3LkHJ"
-      ],
-      "name": "Press",
-      "settings": {
-        "full_width": true,
-        "content_size": "small",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "faq": {
@@ -826,9 +701,7 @@
     "featured-product",
     "image_with_text_overlay_yx7YqQ",
     "media_with_text_CQTXHP",
-    "image_with_text_overlay_XGjciV",
     "rich_text_UHWLLG",
-    "press_QtYbwK",
     "faq",
     "text_with_icons_fhJnDJ",
     "contact_dhDGL3"
