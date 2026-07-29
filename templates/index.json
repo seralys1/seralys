@@ -657,8 +657,8 @@
             "icon": "picto-love",
             "mobile_icon_width": 24,
             "icon_width": 24,
-            "icon_background_type": "none",
-            "icon_background": "",
+            "icon_background_type": "circle",
+            "icon_background": "#E7BEC1",
             "icon_color": "",
             "title": "Più di 2.430 clienti soddisfatti",
             "content": ""
