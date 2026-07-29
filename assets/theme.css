@@ -10138,7 +10138,7 @@ shopify-accelerated-checkout, shopify-accelerated-checkout-cart {
   padding-block-end: 10px;
 }
 
-#shopify-section-template--21585648353434__rich_text_CBPhjR {
+#shopify-section-template--21585648353434__rich_text_CBPhjR, #shopify-section-template--21585648353434__slideshow_yjEX9F {
 display: none;
 }
 
@@ -10168,7 +10168,7 @@ margin-block-start: 0;
 }
 
 @media screen and (max-width: 767px) {
-  #shopify-section-template--21585648353434__rich_text_CBPhjR {
+  #shopify-section-template--21585648353434__rich_text_CBPhjR, #shopify-section-template--21585648353434__slideshow_yjEX9F {
 display: block;
 }
 #shopify-section-template--21585648353434__rich_text_WfLjJM {
