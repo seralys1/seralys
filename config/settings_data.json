@@ -40,7 +40,14 @@
     "cart_empty_button_link": "shopify://products/seralys™-stick-rimpolpante-bio-collagene-pdrn",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "9696655121035291526": {
+        "type": "shopify://apps/rapi-bundle/blocks/app-embed/99617c17-a32b-4e70-a883-7a155610d032",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {
