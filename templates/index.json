@@ -80,6 +80,23 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_wQD7BC": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Screenshot_2026-07-28_125441.webp",
+        "mobile_image": "shopify://shop_images/benefices-banner.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "rich_text_WfLjJM": {
       "type": "rich-text",
       "name": "Rich text",
@@ -653,7 +670,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#E7BEC1",
+            "icon_background": "#e7bec1",
             "icon_color": "",
             "title": "Spedizione gratuita",
             "content": ""
@@ -666,7 +683,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#E7BEC1",
+            "icon_background": "#e7bec1",
             "icon_color": "",
             "title": "Garanzia di rimborso di 30 giorni",
             "content": ""
@@ -679,7 +696,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#E7BEC1",
+            "icon_background": "#e7bec1",
             "icon_color": "",
             "title": "Più di 2.430 clienti soddisfatti",
             "content": ""
@@ -692,7 +709,7 @@
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "circle",
-            "icon_background": "#E7BEC1",
+            "icon_background": "#e7bec1",
             "icon_color": "",
             "title": "Pagamento sicuro",
             "content": ""
@@ -722,6 +739,7 @@
   "order": [
     "slideshow_Jh4nEQ",
     "image_with_text_overlay_hGFdMK",
+    "image_with_text_overlay_wQD7BC",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
     "rich_text_HCB9bn",
