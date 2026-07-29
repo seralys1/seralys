@@ -48,7 +48,7 @@
         "transition_type": "fade_with_text",
         "autoplay": false,
         "cycle_speed": 6,
-        "background": "#FFFFFF",
+        "background": "#ffffff",
         "background_gradient": ""
       }
     },
@@ -65,7 +65,7 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "⭐⭐⭐⭐⭐ 4,5/5 — 2.430 recenzje",
-            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamentedove serve.",
+            "title": "Occhiaie scavate, rughe del sorriso, collo: rimpolpati esattamente dove serve.",
             "content": "",
             "link_text": "",
             "link_url": "",
