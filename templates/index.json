@@ -72,7 +72,24 @@
         "enable_parallax": true,
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_TRUST_7.png",
-        "mobile_image": "shopify://shop_images/Copie_de_TRUST_9.png",
+        "mobile_image": "shopify://shop_images/Copie_de_TRUST_13.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_gdWzUr": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/afterbefore.webp",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_15_32_PM.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -144,20 +161,6 @@
     },
     "rich_text_CBPhjR": {
       "type": "rich-text",
-      "blocks": {
-        "image_yE3QBN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ChatGPT_Image_Jul_28_2026_04_15_32_PM.webp",
-            "width_mode": "full_width",
-            "max_width": 1000,
-            "mobile_max_width": 600
-          }
-        }
-      },
-      "block_order": [
-        "image_yE3QBN"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": false,
@@ -797,6 +800,7 @@
   "order": [
     "slideshow_yjEX9F",
     "image_with_text_overlay_hGFdMK",
+    "image_with_text_overlay_gdWzUr",
     "media_with_text_xexBGb",
     "rich_text_WfLjJM",
     "rich_text_CBPhjR",
