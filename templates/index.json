@@ -69,7 +69,7 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
+        "enable_parallax": true,
         "image_size": "auto",
         "image": "shopify://shop_images/Copie_de_TRUST_3.png",
         "mobile_image": "shopify://shop_images/Copie_de_TRUST_3.png",
