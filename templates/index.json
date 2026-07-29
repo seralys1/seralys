@@ -315,6 +315,14 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #FF0000; /* Text color */\n    font-weight: 800; /* Medium font weight */\n    font-size: 15px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n\n  @media (max-width: 767px) {\n   .text {\n    font-size: 12px; /* Set font size */\n  }\n\n.red-div {\n    padding: 2px 5px; \ndisplay: flex;\n}\n}\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">A questo prezzo sono rimasti solo 5 articoli.</div>\n</div>"
           }
         },
+        "image_V4q3H4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/BANNER_-50_1.webp",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "buy-buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -392,6 +400,7 @@
       "block_order": [
         "description",
         "liquid_Gqf8mE",
+        "image_V4q3H4",
         "buy-buttons",
         "liquid_gpjmjf",
         "image_UQqdxp",
